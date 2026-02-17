@@ -132,7 +132,7 @@ span.bold { font-weight: var(--FONT-BOLD); }
     main {
         border-radius: 2em;
         max-height: 80%;
-        max-width: 1000px;
+        max-width: 62.5em;
         padding: 3rem;
     }
 
