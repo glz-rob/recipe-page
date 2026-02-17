@@ -113,14 +113,14 @@ span.bold { font-weight: var(--FONT-BOLD); }
 
 .preparation-time {
     background-color: var(--ROSE-50);
-    border-radius: 15px;
+    border-radius: 1em;
     margin: 2rem 0;
     padding: 1.5rem;
 }
 
 /* || ATRIBUTION */
 .attribution {
-    font-size: 11px;
+    font-size: 0.5rem;
     text-align: center;
 }
 
@@ -130,7 +130,7 @@ span.bold { font-weight: var(--FONT-BOLD); }
     }
 
     main {
-        border-radius: 32px;
+        border-radius: 2em;
         max-height: 80%;
         max-width: 1000px;
         padding: 3rem;
@@ -139,7 +139,7 @@ span.bold { font-weight: var(--FONT-BOLD); }
     article { padding: 1rem 0; }
 
     img {
-        border-radius: 16px;
+        border-radius: 1em;
      }
 
 }
