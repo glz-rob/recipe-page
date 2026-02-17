@@ -51,7 +51,7 @@ img { max-width: 100%; }
 hr {
     background-color: var(--STONE-150);
     border: none;
-    height: 1px;
+    height: 0.0625em;
     margin: 2rem 0;
 }
 
@@ -124,9 +124,7 @@ span.bold { font-weight: var(--FONT-BOLD); }
     text-align: center;
 }
 
-.attribution a { color: hsl(228, 45%, 44%); }
-
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 48em) {
     body {
         padding: 5rem 5rem;
     }
