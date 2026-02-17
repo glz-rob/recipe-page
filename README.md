@@ -12,10 +12,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-  - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -37,8 +34,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/glz-rob/recipe-page)
-- Live Site URL: [Add live site URL here](https://glz-rob.github.io/recipe-page/)
+- Solution URL: [https://github.com/glz-rob/recipe-page](https://github.com/glz-rob/recipe-page)
+- Live Site URL: [https://glz-rob.github.io/recipe-page/](https://glz-rob.github.io/recipe-page/)
 
 ## My process
 
@@ -52,27 +49,13 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 <!-- TODO: ADD WHAT I LEARNED -->
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
+I learned how to better style lists and tables, as well as the usage of different display styles (inline, block).
 
 ### Continued development
 
 <!-- TODO -->
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I would like to explore more how to use the different display types, and the combination of inline and block elements inside the same block.
 
 ## Author
 
@@ -80,11 +63,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - Frontend Mentor - [@glz-rob](https://www.frontendmentor.io/profile/glz-rob)
 - BlueSky - [@glz-rob.bsky.social](https://bsky.app/profile/glz-rob.bsky.social)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Twitter - [@114_111_98](https://x.com/114_111_98)
